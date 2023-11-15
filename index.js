@@ -93,13 +93,18 @@ let menuVector = document.querySelector('.menu_call-request-vector');
 let headerButton = document.querySelector('.header__button');
 let backgroundGrayMenu = document.querySelector('.main_menu_background-call');
 let headerButtonDesktop = document.querySelector('.header__button_desktop');
+let footerButton = document.querySelector('.footer__button');
 headerButton.addEventListener('click', () =>{
 menuForCall.classList.toggle('main__menu_call-request-active');
 backgroundGrayMenu.classList.toggle('main_menu_background-call-active');
 body.classList.toggle('body_active');
 
 });
-
+footerButton.addEventListener('click', () =>{
+  menuForCall.classList.toggle('main__menu_call-request-active');
+  backgroundGrayMenu.classList.toggle('main_menu_background-call-active');
+  body.classList.toggle('body_active');
+});
 menuVector.addEventListener('click', () =>{
 menuForCall.classList.remove('main__menu_call-request-active');
 backgroundGrayMenu.classList.remove('main_menu_background-call-active');
