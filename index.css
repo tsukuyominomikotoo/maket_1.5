@@ -2744,13 +2744,14 @@ flex-wrap: wrap;
     }
     
     .six_item-overwiew{
-        width:75vw;
+        width:95%;
         padding-left: 80px;
     }
     .six_item_title{
         margin-left: 125px;
     }
     .stages_six_item{
+        height: 30vw;
         gap:30px;
 
     }
@@ -2760,10 +2761,11 @@ flex-wrap: wrap;
     }
     .fifth_item-overwiew{
         padding-left: 80px;
-        width:72vw;
+        width:90%;
 
     }
     .stages_fifth_item{
+        height: 30vw;
         gap:30px;
     }
     .four_item_title{
