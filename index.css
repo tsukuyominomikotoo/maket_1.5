@@ -855,7 +855,7 @@ height: 100%;
     text-align: center;
     font-size: 18px;
     font-weight: 700;
-    margin-top:35px;
+    margin-top:20px;
 
 
 }
@@ -873,7 +873,7 @@ height: 100%;
 .form_for_call-input{
     outline: none;
     display: block;
-    margin:35px auto 15px 20px;
+    margin:35px auto 15px 35px;
     background: transparent;
 }
 ::placeholder {
@@ -884,7 +884,7 @@ height: 100%;
   }
   .form_for_call-line{
     margin-top: -10px;
-    margin-left: 20px;
+    margin-left: 35px;
     width: 250px;
     height: 2.5px;
     background: rgba(255, 255, 255, 0.40);
@@ -893,7 +893,7 @@ height: 100%;
   .form_for_call-input-number{
     outline: none;
     display: block;
-    margin:35px auto 15px 20px;
+    margin:35px auto 15px 35px;
     background: transparent;
 
   }
@@ -937,7 +937,7 @@ height: 100%;
 .check__box-overwiew{
     display: block;
     margin-top: 15px;
-    margin-left: 35px;
+    margin-left: 40px;
 
 }
   .checkbox__input_alt{
