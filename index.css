@@ -2241,10 +2241,11 @@ flex-wrap: wrap;
 
     .six_item-overwiew{
         margin:0;
-        font-size: 18px;
+        font-size: 15px;
         font-weight:400;
         padding-left:50px;
         width:70vw;
+        margin-top: -30px;
     }
 
     .stages_six_item{
@@ -2270,10 +2271,11 @@ flex-wrap: wrap;
 
     .fifth_item-overwiew{
         margin:0;
-        font-size: 18px;
+        font-size: 15px;
         font-weight:400;
         padding-left:50px;
         width:70vw;
+        margin-top: -5px;
     }
 
     .stages_fifth_item{
