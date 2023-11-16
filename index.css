@@ -840,15 +840,14 @@ height: 100%;
     font-weight: 600;
 }
 
-.form__for_call{
+.form__for_call {
     margin-left: auto;
     margin-right: auto;
-    padding:15px;
+    padding: 15px 0px 0px 0px;
     width: 311px;
     height: 486px;
     border-radius: 20px;
     background: var(--2, #6B5AF9);
-
 }
 
 .form__for_call-title{
@@ -925,20 +924,20 @@ height: 100%;
     
 
 }
-.check__box{
+.check__box {
     position: absolute;
-    border:2px solid #9B8FFF;
-    width:1em;
+    border: 2px solid #9B8FFF;
+    width: 1em;
     height: 1em;
     background-color: #9B8FFF;
     border-radius: 2px;
-    margin-left: -1.2em;
+    margin-left: 0px;
     margin-top: 35px;
 }
 .check__box-overwiew{
     display: block;
     margin-top: 15px;
-    margin-left: 20px;
+    margin-left: 35px;
 
 }
   .checkbox__input_alt{
@@ -1306,7 +1305,7 @@ flex-wrap: wrap;
     .check__box-overwiew{
         display: block;
         margin-top: 15px;
-        margin-left: 10px;
+        margin-left: 20px;
     
     }
 
@@ -2241,11 +2240,10 @@ flex-wrap: wrap;
 
     .six_item-overwiew{
         margin:0;
-        font-size: 15px;
+        font-size: 18px;
         font-weight:400;
         padding-left:50px;
-        width:70vw;
-        margin-top: -30px;
+        width:95%;
     }
 
     .stages_six_item{
@@ -2254,8 +2252,8 @@ flex-wrap: wrap;
         margin-left: auto;
         margin-right: auto;
         margin-top:30px;
-        width:85vw;
-        height: 70vh;
+        width:85%;
+        height: 50vw;
     }
 
     .six_item_title{
@@ -2271,11 +2269,10 @@ flex-wrap: wrap;
 
     .fifth_item-overwiew{
         margin:0;
-        font-size: 15px;
+        font-size: 18px;
         font-weight:400;
         padding-left:50px;
-        width:70vw;
-        margin-top: -5px;
+        width:94%;
     }
 
     .stages_fifth_item{
@@ -2284,8 +2281,8 @@ flex-wrap: wrap;
         margin-left: auto;
         margin-right: auto;
         margin-top:30px;
-        width:85vw;
-        height: 70vh;
+        width:85%;
+        height: 50vw;
     }
 
     .fifth_item_title{
