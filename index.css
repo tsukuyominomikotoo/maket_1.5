@@ -876,6 +876,11 @@ height: 100%;
     margin:35px auto 15px 35px;
     background: transparent;
 }
+
+.form_for_call-input-number, .form_for_call-input, select, textarea{
+    color:#FFF;
+}
+
 ::placeholder {
     color: rgba(255, 255, 255, 0.40);
     font-size: 12px;
